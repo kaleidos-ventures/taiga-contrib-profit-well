@@ -1,0 +1,8 @@
+{
+    "name": "Profit Well",
+    "slug": "profit-well",
+    "description": "Include profit well retain script",
+    "type": "misc",
+    "module": "profitWellPlugin",
+    "js": "/plugins/profit-well/profit-well.js"
+}
