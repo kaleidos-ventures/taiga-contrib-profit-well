@@ -4,18 +4,18 @@
   "description": "Taiga contrib plugin to show insert the profit-well retain script",
   "repository": {
     "type": "git",
-    "url": "https://github.com/taigaio/taiga-contrib-profit-well.git"
+    "url": "https://github.com/kaleidos-ventures/taiga-contrib-profit-well.git"
   },
   "keywords": [
     "taiga",
     "profit-well"
   ],
-  "author": "Taiga Agile LLC",
-  "license": "MIT-0",
+  "author": "Kaleidos Ventures SL",
+  "license": "MPL-2",
   "bugs": {
-    "url": "https://github.com/taigaio/taiga-contrib-profit-well/issues"
+    "url": "https://github.com/kaleidos-ventures/taiga-contrib-profit-well/issues"
   },
-  "homepage": "https://github.com/taigaio/taiga-contrib-profit-well",
+  "homepage": "https://github.com/kaleidos-ventures/taiga-contrib-profit-well",
   "dependencies": {
     "coffee-script": "^1.10.0",
     "node-sass": "^3.4.2"

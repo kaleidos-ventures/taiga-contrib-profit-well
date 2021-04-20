@@ -1,7 +1,6 @@
 Taiga Contrib Profit Well
 =========================
 
-[![Kaleidos Project](http://kaleidos.net/static/img/badge.png)](https://github.com/kaleidos "Kaleidos Project")
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/taiga/ "Managed with Taiga.io")
 
 The Taiga plugin to add profilt well retain snippet.
@@ -18,7 +17,7 @@ Download in your `dist/plugins/` directory of Taiga front the `taiga-contrib-pro
   cd dist/
   mkdir -p plugins
   cd plugins
-  svn export "https://github.com/taigaio/taiga-contrib-profit-well/branches/stable/dist"  "profit-well"
+  svn export "https://github.com/kaleidos-ventures/taiga-contrib-profit-well/branches/stable/dist"  "profit-well"
 ```
 
 Include in your `dist/conf.json` in `profitWellToken` the Profit Well token and in the `contribPlugins` list the value `"/plugins/profit-well/profit-well.json"`:
